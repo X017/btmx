@@ -7,6 +7,6 @@ def testFunction():
 
 @post('/test')
 def postFunction():
-    return "<p> Hello World</b>"
+    return "<p> bottle X Htmx 4 life</b>"
 
 run(host='0.0.0.0',port=8000,reloader=True)
